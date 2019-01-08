@@ -5,7 +5,9 @@ cars
 mini vans
 motorcycles
 bi-cycles
+Tri-cycle
 
 Devices
 ---------
 OBD-II
+Magnetic
